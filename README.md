@@ -1,4 +1,4 @@
-# In order to install the app on your system make sure the you have react installed globally on your system.
+# In order to install the app on your system make sure that you have react installed globally on your system.
 # Clone the repository.
 # Once cloned navigate inside the project directory.
 # Inside the project directory install all the required dependecies mentioned in package.json by running npm install.
