@@ -1,0 +1,26 @@
+.credits-header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.credits-header-container .credits-header {
+  color: white;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.credits-list-container {
+  display: flex;
+  justify-content: center;
+}
+
+.credits-list {
+  background: #383838;
+  border: 1px solid #929292;
+  border-radius: 5px;
+}
+
+.credit-item {
+  padding: 5px 100px 5px 100px;
+  color: white;
+}
